@@ -1,0 +1,16 @@
+Country,Original_id,Authors,Voting,Date
+United Kingdom,72,"['Bolivia (Plurinational State of)', 'China', ""Côte d'Ivoire"", 'Equatorial Guinea', 'Ethiopia', 'France', 'Kazakhstan', 'Kuwait', 'Netherlands (Kingdom of the)', 'Peru', 'Poland', 'Russian Federation', 'Sweden', 'United Kingdom', 'United States']",Y,2018-01-30
+France,73,"['Bolivia (Plurinational State of)', 'China', ""Côte d'Ivoire"", 'Equatorial Guinea', 'Ethiopia', 'France', 'Kazakhstan', 'Kuwait', 'Netherlands (Kingdom of the)', 'Peru', 'Poland', 'Russian Federation', 'Sweden', 'United Kingdom', 'United States']
+",Y,2018-01-30
+Russia,322,None,Y,13/4/2018
+United States,341,"['Bolivia (Plurinational State of)', 'China', ""Côte d'Ivoire"", 'Equatorial Guinea', 'Ethiopia', 'France', 'Kazakhstan', 'Kuwait', 'Netherlands (Kingdom of the)', 'Peru', 'Poland', 'Russian Federation', 'Sweden', 'United Kingdom', 'United States']",Y,23/4/2018
+United States,455,"['Bolivia (Plurinational State of)', 'China', ""Côte d'Ivoire"", 'Equatorial Guinea', 'Ethiopia', 'France', 'Kazakhstan', 'Kuwait', 'Netherlands (Kingdom of the)', 'Peru', 'Poland', 'Russian Federation', 'Sweden', 'United Kingdom', 'United States']",Y,15/5/2018
+France,1016,"['Bolivia (Plurinational State of)', 'China', ""Côte d'Ivoire"", 'Equatorial Guinea', 'Ethiopia', 'France', 'Kazakhstan', 'Kuwait', 'Netherlands (Kingdom of the)', 'Peru', 'Poland', 'Russian Federation', 'Sweden', 'United Kingdom', 'United States']",Y,13/12/2018
+"Côte d’Ivoire, Equatorial Guinea, Ethiopia, France, Netherlands,
+Peru, Poland, Sweden, United Kingdom and United States",1109,"['Bolivia (Plurinational State of)', 'China', ""Côte d'Ivoire"", 'Equatorial Guinea', 'Ethiopia', 'France', 'Kazakhstan', 'Kuwait', 'Netherlands (Kingdom of the)', 'Peru', 'Poland', 'Russian Federation', 'Sweden', 'United Kingdom', 'United States']
+",Y,13/12/2018
+Kuwait and Sweden,1110,"['Bolivia (Plurinational State of)', 'China', ""Côte d'Ivoire"", 'Equatorial Guinea', 'Ethiopia', 'France', 'Kazakhstan', 'Kuwait', 'Netherlands (Kingdom of the)', 'Peru', 'Poland', 'Russian Federation', 'Sweden', 'United Kingdom', 'United States']
+",Y,13/12/2018
+Russian and United States,1143,"['Bolivia (Plurinational State of)', 'China', ""Côte d'Ivoire"", 'Equatorial Guinea', 'Ethiopia', 'France', 'Kazakhstan', 'Kuwait', 'Netherlands (Kingdom of the)', 'Peru', 'Poland', 'Russian Federation', 'Sweden',
+",Y,21/12/2018
+United Kingdom,1147,"['Bolivia (Plurinational State of)', 'China', ""Côte d'Ivoire"", 'Equatorial Guinea', 'Ethiopia', 'France', 'Kazakhstan', 'Kuwait', 'Netherlands (Kingdom of the)', 'Peru', 'Poland', 'Russian Federation', 'Sweden', 'United Kingdom', 'United States']",Y,28/12/2018
